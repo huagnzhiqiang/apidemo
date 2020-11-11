@@ -1,0 +1,38 @@
+{
+  "attrs": null,
+  "code": "success",
+  "data": [
+    {
+      "name": "haiwaigou",
+      "chineseName": "家居科技系列",
+      "bannerType": "banner",
+      "bannerList": []
+    },
+    {
+      "name": "XSDrink",
+      "chineseName": "XS 功能饮料",
+      "bannerType": "banner",
+      "bannerList": [
+        {
+          "id": "/content/china/accl/solr/banner/XSDrink/xs-_",
+          "title": "xs-_",
+          "chineseName": "XS 葡萄口味",
+          "imageUrl": "https://bizqa.amwaynet.com.cnbbbbbbbbbbbb",
+          "isContenthub": true,
+          "isVideo": false,
+          "redirectLink": "aaaaaaaaaaaaaaaa"
+        },
+        {
+          "id": "/content/china/accl/solr/banner/XSDrink/XSOrange",
+          "title": "XSOrange",
+          "chineseName": "XS 香橙口味",
+          "imageUrl": "http://10.140.211.60:4502/cf#/content/china/accl/qrcodeimages/xs/005.html",
+          "isContenthub": true,
+          "isVideo": false,
+          "redirectLink": "http://qa.amway.com.cn/content/china/accl/amwaychina/zh_cn/other/XSnation.html"
+        }
+      ]
+    }
+  ],
+  "message": null
+}
